@@ -12,7 +12,7 @@ fullscreen = 1
 
 android.permissions = CAMERA,ACCESS_FINE_LOCATION,ACCESS_COARSE_LOCATION,RECORD_AUDIO
 android.api = 35
-android.minapi = 23
+android.minapi = 24
 android.archs = arm64-v8a
 android.accept_sdk_license = True
 
